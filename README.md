@@ -11,7 +11,7 @@ This Solidity contract demonstrates the use of `require`, `assert`, and `revert`
 ## Usage
 
 1. Open Browser and go the site https://remix.ethereum.org/
-2. Create a new file with extension .sol and paste the code.
+2. Create a new file with extension `.sol` and paste the code of `functions_and_error.sol` in remix browser.
 3. Compile the code and deploy.
 
 ## Authors
